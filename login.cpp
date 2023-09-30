@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int choice;
-double balance = 100;
+double balance = 200;
 
 void menu() {
     cout<<endl<<"\t*****MENU*****"<<endl;
